@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class DEV1 {
+public class DEV1 {
+    private String author = "Maciej A";
 }
