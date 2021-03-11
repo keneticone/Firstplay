@@ -1,5 +1,5 @@
 public class lab1 {
-    private String projectName = "lab1";
+    private String projectName = "lab11";
 
     public static void main(String[] args){
         String jdkVersion = System.getProperty("java.version");
